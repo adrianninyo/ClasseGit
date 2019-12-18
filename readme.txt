@@ -9,3 +9,5 @@ Avui som a DAM 1
 Faig un canvi directament a github
 
 Fem un segon canvi al cloud
+
+canvi random
